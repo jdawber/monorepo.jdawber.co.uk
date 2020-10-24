@@ -6,8 +6,8 @@
             "destination": "https://monorepo-app-jdawber-co-uk.vercel.app"
         },
         {
-            "source": "/two",
-            "destination": "https://monorepo-app2-jdawber-co-uk.vercel.app"
+            "source": "/two/:match*",
+            "destination": "https://monorepo-app2-jdawber-co-uk.vercel.app/"
         }
     ]
 }
