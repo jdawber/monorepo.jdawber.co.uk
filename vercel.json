@@ -10,7 +10,7 @@
             "destination": "https://monorepo-app2-jdawber-co-uk.vercel.app"
         },
         {
-            "source": "/*",
+            "source": "/",
             "destination": "https://monorepo-main-jdawber-co-uk.vercel.app"
         }
     ]
